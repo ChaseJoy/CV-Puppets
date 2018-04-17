@@ -8,17 +8,17 @@
 
 ### Getting Started
  The user should first make sure they have access to a Microsoft Kinect for testing.
- 
+
  The user should then install all the necessary packages, found in `requirements.txt` by running the line
- 
+
  `sudo pip install -r requirements.txt` from the command line.
- 
+
  For more information on which packages are to be installed (and why), please refer to `requirements.txt`.
- 
+
 ### Usage
  Run `freenect-glview` to display infrared camera output from the Kinect to make sure it is working.
- 
+
  Run `python3 kinect_test.py` to display an OpenCV interpretation of the infrared output.
- 
+
 ### License
- This repo is free to use. Go nuts.
+ This repo is free to use. Go nuts. Edits are welcome if they improve the program.
